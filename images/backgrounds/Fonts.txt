@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Cartoonist Hand
+Author: ShyFonts
+Url: http://www.fontsquirrel.com/fonts/sf-cartoonist-hand
+
+Font: HVD Comic Serif Pro
+Author: HVD Fonts
+Url: http://www.fontsquirrel.com/fonts/hvd-comic-serif-pro
